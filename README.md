@@ -1,7 +1,7 @@
 # Ebook: Técnicas para Ter Mais Foco e Ser Mais Produtivo no Dia a Dia  📖
 
 ## 📝 Descrição
-Este e-book de 15 páginas que abordam as principais técnicas para ter mais foco e ser mais produtivo e também traz uma reflexão sobre a importância de manter o foco para alcance dos objetivos, assim como dicas importantes para aplicação no dia-a-dia.
+Este e-book de 15 páginas que aborda as principais técnicas para ter mais foco e ser mais produtivo e também traz uma reflexão sobre a importância de manter o foco para alcance dos objetivos, assim como dicas importantes para aplicação no dia-a-dia.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
