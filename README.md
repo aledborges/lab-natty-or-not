@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para realizar minha pesquisa sobre as técnicas para produt
 ## 📊 Resultados
 O e-book apresenta um conteúdo rico e objetivo, demonstrando as principais técnicas para produtividade e como aplicá-las no dia a dia para o alcance de metas.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/aledborges/lab-natty-or-not/blob/main/ebook_tecnicas_foco.pdf)
 
 ## 💭 Conclusão
 A elaboração deste e-book foi uma experiência enriquecedora, que revelou o imenso potencial criativo das IAs e evidenciou as diversas formas como elas podem ser aplicadas em contextos distintos.
